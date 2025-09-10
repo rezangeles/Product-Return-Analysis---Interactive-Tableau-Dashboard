@@ -37,7 +37,7 @@ and provide actionable insights to improve cost management, workload forecasting
 
 **Future Improvements:**
   - Automate data refreshes from the source system for real-time updates
-      -Explained: Instead of manually uplaoding new data every time, set up is done so the project updates automatically whenever new data comes in. This keeps it current without extra work. It makes it easier to keep the project updated.
+      **Explained: Instead of manually uplaoding new data every time, set up is done so the project updates automatically whenever new data comes in. This keeps it current without extra work. It makes it easier to keep the project updated.
   - Add forecasting models to predict future return spikes 
       -Explained: Use historical data to predict the future such as spotting when product returns suddenly increase. Work smarter in predicting the future!
   - Include filters for customer demographics to segment insights 
