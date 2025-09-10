@@ -36,11 +36,14 @@ and provide actionable insights to improve cost management, workload forecasting
   - Integrate return analysis with financial and operational metrics to prioritize initiatives with the highest profit impact.
 
 **Future Improvements:**
-  - Automate data refreshes from the source system for real-time updates -instead of manually uplaoding new data every time, set up is done so the project updates automatically whenever new data comes in. This keeps it current      without extra work. It makes it easier to keep the project updated.
-  - Add forecasting models to predict future return spikes -use historical data to predict the future such as spotting when product returns suddenly increase. Work smarter in predicting the future!
-  - Include filters for customer demographics to segment insights -add options to break down the results by age group, location, or customer type to see patterns for different demographics. It makes it more detailed and
-    customizable.
-  - Enhance root cause tracking by integrating customer support ticket -connect the project with customer support or complaint records to better understand the why (it is happening) and not just recording/knowing the what           (what's happening). It makes it more insightful by linking data to actual reasons.
+  - Automate data refreshes from the source system for real-time updates
+      -Explained: Instead of manually uplaoding new data every time, set up is done so the project updates automatically whenever new data comes in. This keeps it current without extra work. It makes it easier to keep the project updated.
+  - Add forecasting models to predict future return spikes 
+      -Explained: Use historical data to predict the future such as spotting when product returns suddenly increase. Work smarter in predicting the future!
+  - Include filters for customer demographics to segment insights 
+      -Explained: Add options to break down the results by age group, location, or customer type to see patterns for different demographics. It makes it more detailed and customizable.
+  - Enhance root cause tracking by integrating customer support ticket
+      -Explained: Connect the project with customer support or complaint records to better understand the 'why' (it is happening) and not just recording/knowing the 'what' (what's happening). It makes it more insightful by linking data to actual reasons.
 
 **Link:** https://public.tableau.com/views/StorytelllingwithDataProjectSprint5/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
